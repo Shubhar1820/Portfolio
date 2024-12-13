@@ -1,7 +1,3 @@
-Here’s a sample README file for your portfolio website:
-
----
-
 # Portfolio Website
 
 This is a personal portfolio website that showcases my work, skills, and projects. It is built using HTML, CSS, and JavaScript, providing a responsive and interactive design.
@@ -52,6 +48,3 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-You can modify it to include specific details about your website or personal preferences.
